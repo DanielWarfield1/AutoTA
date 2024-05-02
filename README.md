@@ -8,4 +8,4 @@ To view the Submission Video:
 https://youtu.be/GpL_wcdzijI
 
 To view the longer explination:
-<uploading>
+https://youtu.be/LUySaLRWnN0
