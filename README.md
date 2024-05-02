@@ -5,7 +5,7 @@ To use AutoTA:
 https://danielwarfield1.github.io/AutoTA/
 
 To view the Google Hackathon submission video:
-https://youtu.be/GpL_wcdzijI
+https://youtu.be/GpL_wcdzijI or https://vimeo.com/942160191?share=copy
 
 To view the longer explination:
 https://youtu.be/LUySaLRWnN0
