@@ -13,7 +13,7 @@ class AgentPage{
   mount(){
     background(255,255,255)
     this.ff = new FlowField(height/3)
-    this.InteractionBlock.unmount()
+    this.InteractionBlock.mount()
   }
   
   unmount(){

@@ -13,6 +13,10 @@ class InteractionBlock {
     this.isTranscript = isTranscript
     this.agent = new Agent(apiKey, this, userContext, isTranscript)
     
+    this.stb = null
+    this.rcb = null
+    this.ntb = null
+    
     this.showThoughts=false
     
     this.tips = ["Try asking specific questions", "You can always restart the conversation!", "Feel free to choose a new topic any time!", "Keep a conversational tone!", "AutoTA isn't always right, it's designed to make you think!","Made by Daniel Warfield","You're Learning!", "Asking someone...", "Cheating on Turing Test...", "Guessing...", "Let me ask George...", "Let me see...", "Asking my Mom...", "Flipping a Billion Coins...", "Your response will arrive in 7-10 buisness days...", "Generating an Answer...", ":)", ":o", "(^._.^)", "<(o.o )>", "(・。・;)", ":D", "Just restart if you have any issues!"]
